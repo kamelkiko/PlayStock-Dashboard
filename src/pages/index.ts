@@ -1,0 +1,9 @@
+export { LoginPage } from './LoginPage';
+export { DashboardPage } from './DashboardPage';
+export { StoresPage } from './StoresPage';
+export { OutletsPage } from './OutletsPage';
+export { VendorsPage } from './VendorsPage';
+export { CustomersPage } from './CustomersPage';
+export { GamesPage } from './GamesPage';
+export { SettingsPage } from './SettingsPage';
+export { GamePricingPage } from './GamePricingPage';
